@@ -8,3 +8,7 @@ Palestrante Luana Almeida
 Links importantes:
 Biblioteca de mapas: leaflet-extras.github.io/leaflet-providers/preview
 Biblioteca de ícones: getbootstrap.com/docs/3.3/components
+
+
+Geolocalização em um mapa
+https://www.youtube.com/watch?v=cUXG6H3OhRQ
