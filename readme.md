@@ -8,15 +8,18 @@ Palestrante Luana Almeida
 Links importantes:
 Biblioteca de mapas: leaflet-extras.github.io/leaflet-providers/preview
 Biblioteca de ícones: getbootstrap.com/docs/3.3/components
+Bases de dados: https://www.kaggle.com/datasets
 
 
 Geolocalização em um mapa
 https://www.youtube.com/watch?v=cUXG6H3OhRQ
 
+Mapa com mapa de calor 
+    https://www.youtube.com/watch?v=FAcmk45u948
+
 Próximos estudos 
 
-    Mapa com mapa de calor
-    https://www.youtube.com/watch?v=FAcmk45u948
+    
 
     https://www.youtube.com/watch?v=PrAVjie-iqo
 
