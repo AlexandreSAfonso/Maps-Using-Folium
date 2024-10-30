@@ -14,5 +14,14 @@ Geolocalização em um mapa
 https://www.youtube.com/watch?v=cUXG6H3OhRQ
 
 Próximos estudos 
-https://www.youtube.com/watch?v=PrAVjie-iqo
-https://www.youtube.com/watch?v=kBJ6kXa7Pk8
+
+    Mapa com mapa de calor
+    https://www.youtube.com/watch?v=FAcmk45u948
+
+    https://www.youtube.com/watch?v=PrAVjie-iqo
+
+    https://www.youtube.com/watch?v=kBJ6kXa7Pk8
+
+    Incluir identificação do shape 
+    https://sites.google.com/view/patriciasiqueira/home?authuser=0
+    https://www.youtube.com/watch?v=8O7cCR_K7Vo
