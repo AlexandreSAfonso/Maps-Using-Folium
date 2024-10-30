@@ -25,6 +25,9 @@ Próximos estudos
 
     https://www.youtube.com/watch?v=kBJ6kXa7Pk8
 
+    Folium com estudo de mais opções
+        https://www.youtube.com/watch?v=K3fhtQv46bM
+
     Incluir identificação do shape 
-    https://sites.google.com/view/patriciasiqueira/home?authuser=0
-    https://www.youtube.com/watch?v=8O7cCR_K7Vo
+        https://sites.google.com/view/patriciasiqueira/home?authuser=0
+        https://www.youtube.com/watch?v=8O7cCR_K7Vo 
